@@ -4,9 +4,7 @@
 - Atualmente estou estudando Java, Kotlin e Spring
 - Estou cursando Análise e desenvolvimento de sistemas, mas também sou formada em Administração pela UFRGS
 
-- Você pode me contatar através do meu e-mail ou LinkedIn: 
-  <a href = "mailto:estherlucena@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" align="center" height="25"></a>
-  <a href="www.linkedin.com/in/esther-wyse-lucena" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" align="center" height="25"></a> 
+- Você pode me contatar através do meu [LinkedIn](www.linkedin.com/in/esther-wyse-lucena)
 
 <br/>
 
